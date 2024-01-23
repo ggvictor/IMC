@@ -4,4 +4,5 @@ calculadora de imc
 
 https://ggvictor.github.io/IMC/
 
-![Captura de tela 2023-10-13 125331](https://github.com/ggvictor/IMC/assets/107512940/e843f387-14dd-46cf-9c32-6ce80873e902)
+![image](https://github.com/ggvictor/IMC/assets/107512940/bab9181e-e774-44e6-ae46-9eef4d01c0d6)
+
