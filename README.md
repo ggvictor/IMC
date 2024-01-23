@@ -1,7 +1,9 @@
-# IMC
-calculadora de imc
+# Calculadora de IMC
+
+**Este é um projeto simples de calculadora de IMC desenvolvido utilizando HTML, CSS e JavaScript. O IMC é uma medida amplamente utilizada para avaliar a composição corporal com base no peso e altura de um indivíduo. Essa aplicação permite que os usuários insiram seu peso e altura e recebam instantaneamente o resultado do IMC, além de uma classificação correspondente.**
 
 
 https://ggvictor.github.io/IMC/
 
-![Captura de tela 2023-10-13 125331](https://github.com/ggvictor/IMC/assets/107512940/e843f387-14dd-46cf-9c32-6ce80873e902)
+![image](https://github.com/ggvictor/IMC/assets/107512940/bab9181e-e774-44e6-ae46-9eef4d01c0d6)
+
