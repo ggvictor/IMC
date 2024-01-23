@@ -1,0 +1,41 @@
+@media (max-width:420px){
+    body{
+        overflow-x:hidden ;
+    }
+    main img{
+        height: 290px;
+        width: 340px;
+        margin-top: 150px;
+        margin-right: 0px;
+    }
+    main div.imc {
+        width: 290px;
+    }
+    main div.imc div.input{
+        width: 290px;
+    }
+    main div.imc hr{
+        margin: none;
+        width: 250px;
+        border-color: #004B62;
+    }
+    main div.imc div.input h1{
+        font-size: 40px;
+        padding-top: 10px;
+        font-weight: bold;
+        text-align: center;
+    }
+    main div.imc div.input label{
+        font-size: 15px;
+        font-weight: bold;
+        margin-left: 40px;
+        margin-top: 30px;
+    }
+    main div.imc div.input input{
+        margin-left: 10px;
+        width:210px;
+        background-color: #05080A;
+        border: none;
+        color: white;
+    }
+}
