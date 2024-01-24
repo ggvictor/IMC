@@ -52,8 +52,8 @@ main div.imc div.input label{
 main div.imc div.input input{
     margin-left: 10px;
     width:524px;
-    background-color: #05080A;
-    border: none;
+    background-color: #121d24;
+    border: 1px solid white;
     color: white;
 }
 main div.imc div.input i{
